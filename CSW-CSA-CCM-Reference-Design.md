@@ -50,7 +50,7 @@ Cisco Secure Workload (CSW) is a **workload protection platform**. A lightweight
 
 **Console areas:** Investigate (inventory, flows, vulns) · Defend/Segmentation (policy) · Manage (agents) · Platform (connectors) · Administration (audit log)
 
-**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/about-csw.md) (platform intro)
+**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/about-csw.md) (platform intro)
 
 ---
 
@@ -395,12 +395,12 @@ CSA publishes **Consensus Assessment Initiative Questionnaire (CAIQ)** and mappi
 
 ## Appendix B — Related Reference Designs
 
-- [NIST SP 800-53 Rev. 5](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md)
-- [NIST SP 800-171 Rev. 3](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-171/CSW-NIST-800-171-Technical-Runbook.md)
-- [ISO/IEC 27001:2022](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md)
-- [PCI DSS v4](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md)
-- [SOC 2](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/SOC2/CSW-SOC2-Technical-Runbook.md)
-- [NIST SP 800-207 (Zero Trust)](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-207/CSW-NIST-800-207-Technical-Runbook.md)
+- [NIST SP 800-53 Rev. 5](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md)
+- [NIST SP 800-171 Rev. 3](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-171/CSW-NIST-800-171-Technical-Runbook.md)
+- [ISO/IEC 27001:2022](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md)
+- [PCI DSS v4](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md)
+- [SOC 2](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/SOC2/CSW-SOC2-Technical-Runbook.md)
+- [NIST SP 800-207 (Zero Trust)](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-207/CSW-NIST-800-207-Technical-Runbook.md)
 
 ---
 
@@ -416,4 +416,4 @@ CSA publishes **Consensus Assessment Initiative Questionnaire (CAIQ)** and mappi
 
 ---
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*

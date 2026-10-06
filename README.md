@@ -127,4 +127,4 @@ Authoritative source(s) for **CSA CCM v4**. Always validate control references, 
 
 This repository is for informational and planning purposes. It is **not** legal, regulatory, audit, or certification advice, and it is **not** a CSA CCM v4 attestation. Validate all control references against the current official CSA CCM v4 text ([official source](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)), your environment, and your qualified assessor. Replace any bracketed fields before customer delivery.
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*
